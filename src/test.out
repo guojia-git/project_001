@@ -1,0 +1,8 @@
+83237,83825
+83537,83825
+Traceback (most recent call last):
+  File "./p.py", line 150, in <module>
+    pt0 = idle_ecdf.get_probability(elapsed_time) 
+  File "/home/jia/ATT/src/ecdf.py", line 29, in get_probability
+    continue
+KeyboardInterrupt
